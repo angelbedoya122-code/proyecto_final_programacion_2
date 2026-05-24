@@ -74,4 +74,4 @@ class PolinomiosDerivables(Polinomio):
         return PolinomiosDerivables([b, m])
 
     def grado(self):
-        return f'Este polinomio es de grado {len(self.L) - 1}'
+        return f'Este polinomio es de grado {len(self.L) -1}'
